@@ -1,0 +1,10 @@
+.container {
+    text-align: left;
+    margin-left: 25vw;
+    width: 50vw;
+    height: 50vh;
+}
+
+.head {
+    color: rgb(112, 112, 202);
+}
